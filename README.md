@@ -2,6 +2,8 @@
 
 #Project Overview
 This project aims to analyze and predict stock price movements by leveraging sentiment analysis of social media data. By extracting relevant discussions from platforms such as Reddit, we aim to understand how public sentiment correlates with stock performance. The sentiment is derived from stock-related posts, and the goal is to explore how sentiment trends can potentially influence stock price changes.
+
+
 #Key Features:
 •	Data Collection: Scraping posts from subreddits like r/wallstreetbets and r/stocks.
 •	Sentiment Analysis: Analyzing public sentiment using natural language processing techniques.
